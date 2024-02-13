@@ -1,0 +1,1 @@
+La carpeta archivos vacía no representa ningún cambio para Github en el repositorio y cuando deja de estar vacía representa un cambio y se puede hacer un commit
